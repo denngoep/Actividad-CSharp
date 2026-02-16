@@ -1,0 +1,14 @@
+C:\Users\degon\C#\Prueba2\bin\Debug\net10.0\Prueba2.exe
+C:\Users\degon\C#\Prueba2\bin\Debug\net10.0\Prueba2.deps.json
+C:\Users\degon\C#\Prueba2\bin\Debug\net10.0\Prueba2.runtimeconfig.json
+C:\Users\degon\C#\Prueba2\bin\Debug\net10.0\Prueba2.dll
+C:\Users\degon\C#\Prueba2\bin\Debug\net10.0\Prueba2.pdb
+C:\Users\degon\C#\Prueba2\obj\Debug\net10.0\Prueba2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\degon\C#\Prueba2\obj\Debug\net10.0\Prueba2.AssemblyInfoInputs.cache
+C:\Users\degon\C#\Prueba2\obj\Debug\net10.0\Prueba2.AssemblyInfo.cs
+C:\Users\degon\C#\Prueba2\obj\Debug\net10.0\Prueba2.csproj.CoreCompileInputs.cache
+C:\Users\degon\C#\Prueba2\obj\Debug\net10.0\Prueba2.dll
+C:\Users\degon\C#\Prueba2\obj\Debug\net10.0\refint\Prueba2.dll
+C:\Users\degon\C#\Prueba2\obj\Debug\net10.0\Prueba2.pdb
+C:\Users\degon\C#\Prueba2\obj\Debug\net10.0\Prueba2.genruntimeconfig.cache
+C:\Users\degon\C#\Prueba2\obj\Debug\net10.0\ref\Prueba2.dll
